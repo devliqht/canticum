@@ -8,7 +8,7 @@ import { getUserProfile } from './SpotifyAPI';
 
 const spotifyApi = new SpotifyWebApi();
 
-const clientID = 'fe28bee06a6d49d4ad02c475f3c42dd7'; // Replace with your actual client ID
+const clientID = import.meta.env.REACT_APP_SPOTIFY_CLIENT_ID; // Replace with your actual client ID
 const redirectUri = 'http://localhost:5173/callback'; // Replace with your redirect URI
 
 const SpotifyLoginButton = () => {
