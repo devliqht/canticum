@@ -219,7 +219,7 @@ function TopSongs() {
                           <span className="text-4xl font-bold">{index + 1} </span>
                           <div className="flex flex-col">
                               <span className="text-2xl">{artist.name}</span> 
-                              <span className="text-neutral-400">{artist.followers.total.toLocaleString()} monthly listeners</span>
+                              <span className="text-neutral-400">{artist.followers.total.toLocaleString()} followers</span>
                           </div>
                       </div>
                     </div>
