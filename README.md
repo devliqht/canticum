@@ -1,6 +1,8 @@
 # Canticum
 
-This is a Spotify web application built with React, Vite, Tailwind (with Daisy UI) and Node. It allows users to log in with their Spotify account with the help of the ``spotify-web-api-js`` wrapper. The application can view their top tracks, artists and genres and displays them in a fashionable way.  ![Preview](https://github.com/devliqht/canticum/blob/main/canticum/src/assets/preview1.png)
+This is a Spotify web application built with React, Vite, Tailwind (with Daisy UI) and Node. It allows users to log in with their Spotify account with the help of the ``spotify-web-api-js`` wrapper. The application can view their top tracks, artists and genres and displays them in a fashionable way. 
+
+![Preview](https://github.com/devliqht/canticum/blob/main/canticum/src/assets/preview1.png)
 
 ## Features
 
